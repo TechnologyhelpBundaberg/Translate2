@@ -30,7 +30,7 @@ import languages
 import os
 
 #BOT_TOKEN stored as enviroment variable.
-KEY = os.environ.get('BOT_TOKEN')
+KEY = os.environ.get('NDY3ODcyMTQ3OTQ4MzA2NDMz.DixGVQ.CofDymCemSaQkmW23Wmbb42TiuI')
 
 #Turning language array into printable list for later use.
 options = []
